@@ -7,6 +7,13 @@
     "test": "npm test"
   },
   "dependencies": {
+	  "prototypes": "*",
+	  "async": "*",
+	  "inits": "*",
+	  "aws-sdk": "*",
+	  "median": "*",
+	  "testing": "*",
+	  "basic-request": "*",
 	  "emailjs": "*"
   },
   "keywords": [
