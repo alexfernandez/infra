@@ -4,6 +4,8 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.aws-credentials.json
+*.pem
 
 # Runtime data
 pids
