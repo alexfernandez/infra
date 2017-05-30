@@ -12,6 +12,7 @@
 	"undef": true,
 	"asi": true,
 	"curly": false,
+	"loopfunc": true,
 	"unused": true
 }
 
