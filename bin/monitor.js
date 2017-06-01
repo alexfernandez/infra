@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const inits = require('inits')
 const monitor = require('../lib/monitor.js')
