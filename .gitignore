@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 .aws-credentials.json
 *.pem
+.email-access.json
 
 # Runtime data
 pids
