@@ -1,6 +1,6 @@
 {
   "name": "infra",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Infrastructure for DevOps",
   "main": "index.js",
   "scripts": {
